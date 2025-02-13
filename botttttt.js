@@ -1,5 +1,5 @@
 const TelegramBot = require('node-telegram-bot-api'); // Assurez-vous d'avoir installé cette dépendance
-const TOKEN = process.env.TELEGRAM_BOT_TOKEN || "8191989885:AAFVd6-QQdGKdDYTggm-lzGJon4padAymf8"; // Remplace par le token de BotFather
+const TOKEN = process.env.TELEGRAM_BOT_TOKEN || "7560255282:AAFjnEKUvdc3k65dcfp_ZjHJu1-8vuJ_Nmk"; // Remplace par le token de BotFather
 const express = require('express');
 const app = express();
 
