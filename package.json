@@ -1,0 +1,14 @@
+{
+    "name": "telegram-bot",
+    "version": "1.0.0",
+    "description": "Bot Telegram pour gérer les messages",
+    "main": "botttttt.js",
+    "scripts": {
+      "start": "node botttttt.js"
+    },
+    "dependencies": {
+      "node-telegram-bot-api": "^0.61.0",
+      "express": "^4.18.2"  
+    }
+  }
+  
